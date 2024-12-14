@@ -35,8 +35,8 @@
             "dot"
         ],
         "InternalName": "ServerLocation",
-        "AssemblyVersion": "0.0.0.2",
-        "TestingAssemblyVersion": "0.0.0.2",
+        "AssemblyVersion": "0.0.0.3",
+        "TestingAssemblyVersion": "0.0.0.3",
         "RepoUrl": "https://github.com/Ryan-RH/ServerLocation",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 11,
@@ -44,9 +44,9 @@
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 1,
-        "DownloadLinkInstall": "https://github.com/Ryan-RH/ServerLocation/releases/download/v0.0.0.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Ryan-RH/ServerLocation/releases/download/v0.0.0.2/latest.zip",
-        "DownloadLinkTesting": "https://github.com/Ryan-RH/ServerLocation/releases/download/v0.0.0.2/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Ryan-RH/ServerLocation/releases/download/v0.0.0.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Ryan-RH/ServerLocation/releases/download/v0.0.0.3/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Ryan-RH/ServerLocation/releases/download/v0.0.0.3/latest.zip",
         "IconUrl": ""
     }
 ]
