@@ -52,7 +52,7 @@
 	{
 	    "Author": "AndreB",
 	    "Name": "Better Blacklist",
-	    "Punchline": "Take control of your progression",
+	    "Punchline": "Informs the user with vital information about their party",
 	    "Description": "Allows the user to see party prog points, previous duties and to save players within duties.",
 	    "Tags": [
 	        "Blacklist",
