@@ -60,8 +60,8 @@
 	        "Prog"
 	    ],
 	    "InternalName": "BetterBlacklist",
-	    "AssemblyVersion": "0.2.0.0",
-	    "TestingAssemblyVersion": "0.2.0.0",
+	    "AssemblyVersion": "0.2.1.0",
+	    "TestingAssemblyVersion": "0.2.1.0",
 	    "RepoUrl": "https://github.com/Ryan-RH/BetterBlacklist",
 	    "ApplicableVersion": "any",
 	    "DalamudApiLevel": 11,
@@ -69,9 +69,9 @@
 	    "IsHide": "False",
 	    "IsTestingExclusive": "False",
 	    "DownloadCount": 1,
-	    "DownloadLinkInstall": "https://github.com/Ryan-RH/BetterBlacklist/releases/download/v0.2.0.0/latest.zip",
-	    "DownloadLinkUpdate": "https://github.com/Ryan-RH/BetterBlacklist/releases/download/v0.2.0.0/latest.zip",
-	    "DownloadLinkTesting": "https://github.com/Ryan-RH/BetterBlacklist/releases/download/v0.2.0.0/latest.zip",
+	    "DownloadLinkInstall": "https://github.com/Ryan-RH/BetterBlacklist/releases/download/v0.2.1.0/latest.zip",
+	    "DownloadLinkUpdate": "https://github.com/Ryan-RH/BetterBlacklist/releases/download/v0.2.1.0/latest.zip",
+	    "DownloadLinkTesting": "https://github.com/Ryan-RH/BetterBlacklist/releases/download/v0.2.1.0/latest.zip",
 	    "IconUrl": ""
 	}
 ]
