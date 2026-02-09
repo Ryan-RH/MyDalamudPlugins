@@ -1,77 +1,20 @@
 [
-	{
-	        "Author": "AndreB",
-	        "Name": "Mount Guide",
-	        "Punchline": "Self-Taxi using another player",
-	        "Description": "!r to return to player or <flag> to travel to desired location",
-	        "Tags": [
-	            "guide"
-	        ],
-	        "InternalName": "MountGuide",
-	        "AssemblyVersion": "0.0.0.1",
-	        "TestingAssemblyVersion": "0.0.0.1",
-	        "RepoUrl": "https://github.com/Ryan-RH/MountGuide",
-	        "ApplicableVersion": "any",
-	        "DalamudApiLevel": 11,
-	        "TestingDalamudApiLevel": 11,
-	        "IsHide": "False",
-	        "IsTestingExclusive": "False",
-	        "DownloadCount": 1,
-	        "DownloadLinkInstall": "https://github.com/Ryan-RH/MountGuide/releases/download/v0.0.0.1/latest.zip",
-	        "DownloadLinkUpdate": "https://github.com/Ryan-RH/MountGuide/releases/download/v0.0.0.1/latest.zip",
-	        "DownloadLinkTesting": "https://github.com/Ryan-RH/MountGuide/releases/download/v0.0.0.1/latest.zip",
-	        "IconUrl": ""
-    	},
-    	{
-	        "Author": "AndreB",
-	        "Name": "Server Location",
-	        "Punchline": "Pixel Perfect but for what the server sees",
-	        "Description": "Displays the location of player of which the player sends to the server",
-	        "Tags": [
-	            "pixelperfect",
-		    "pixel perfect",
-	            "server location",
-	            "server",
-	            "dot"
-	        ],
-	        "InternalName": "ServerLocation",
-	        "AssemblyVersion": "0.0.0.5",
-	        "TestingAssemblyVersion": "0.0.0.5",
-	        "RepoUrl": "https://github.com/Ryan-RH/ServerLocation",
-	        "ApplicableVersion": "any",
-	        "DalamudApiLevel": 11,
-	        "TestingDalamudApiLevel": 11,
-	        "IsHide": "False",
-	        "IsTestingExclusive": "False",
-	        "DownloadCount": 1,
-	        "DownloadLinkInstall": "https://github.com/Ryan-RH/ServerLocation/releases/download/v0.0.0.5/latest.zip",
-	        "DownloadLinkUpdate": "https://github.com/Ryan-RH/ServerLocation/releases/download/v0.0.0.5/latest.zip",
-	        "DownloadLinkTesting": "https://github.com/Ryan-RH/ServerLocation/releases/download/v0.0.0.5/latest.zip",
-	        "IconUrl": ""
-	},
-	{
-	    "Author": "AndreB",
-	    "Name": "Better Blacklist",
-	    "Punchline": "Informs the user with vital information about their party",
-	    "Description": "Allows the user to see party prog points, previous duties and to save players within duties.",
-	    "Tags": [
-	        "Blacklist",
-	        "Tomestone",
-	        "Prog"
-	    ],
-	    "InternalName": "BetterBlacklist",
-	    "AssemblyVersion": "0.2.2.0",
-	    "TestingAssemblyVersion": "0.2.2.0",
-	    "RepoUrl": "https://github.com/Ryan-RH/BetterBlacklist",
-	    "ApplicableVersion": "any",
-	    "DalamudApiLevel": 11,
-	    "TestingDalamudApiLevel": 11,
-	    "IsHide": "False",
-	    "IsTestingExclusive": "False",
-	    "DownloadCount": 1,
-	    "DownloadLinkInstall": "https://github.com/Ryan-RH/BetterBlacklist/releases/download/v0.2.2.0/latest.zip",
-	    "DownloadLinkUpdate": "https://github.com/Ryan-RH/BetterBlacklist/releases/download/v0.2.2.0/latest.zip",
-	    "DownloadLinkTesting": "https://github.com/Ryan-RH/BetterBlacklist/releases/download/v0.2.2.0/latest.zip",
-	    "IconUrl": ""
-	}
+    {
+      "Author": "Treezy",
+      "Name": "Gearset Sort",
+      "Punchline": "Better Gearset Sorting",
+      "Description": "Allow draggable sorter instead of having to do some strange swapping that FFXIV only allows",
+      "ApplicableVersion": "any",
+      "Tags": [
+        "GearsetSort"
+      ],
+      "InternalName": "GearsetSort",
+      "RepoUrl": "https://github.com/Ryan-RH/GearsetSort",
+      "DownloadCount": 0,
+      "DownloadLinkInstall": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.0.1/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.0.1/latest.zip",
+      "AssemblyVersion": "0.0.0.1",
+      "DalamudApiLevel": "14",
+      "Changelog": "Initial Version"
+    }
 ]
