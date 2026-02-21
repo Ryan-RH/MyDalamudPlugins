@@ -3,7 +3,7 @@
       "Author": "Treezy",
       "Name": "Gearset Sort",
       "Punchline": "Better Gearset Sorting",
-      "Description": "Allow draggable sorter instead of having to do some strange swapping that FFXIV only allows",
+      "Description": "Use a draggable sorter instead of having to do some strange swapping that the game exclusively allows",
       "ApplicableVersion": "any",
       "Tags": [
         "GearsetSort"
@@ -11,10 +11,10 @@
       "InternalName": "GearsetSort",
       "RepoUrl": "https://github.com/Ryan-RH/GearsetSort",
       "DownloadCount": 0,
-      "DownloadLinkInstall": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.0.2/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.0.2/latest.zip",
-      "AssemblyVersion": "0.0.0.2",
+      "DownloadLinkInstall": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.1.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.1.0/latest.zip",
+      "AssemblyVersion": "0.0.1.0",
       "DalamudApiLevel": "14",
-      "Changelog": "Initial Version"
+      "Changelog": "Updates hotbars and GearsetList game UI on applying"
     }
 ]
