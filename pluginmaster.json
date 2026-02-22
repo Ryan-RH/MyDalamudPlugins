@@ -16,5 +16,27 @@
       "AssemblyVersion": "0.0.2.0",
       "DalamudApiLevel": "14",
       "Changelog": "ImGui Fixes, dispose fix"
+    },
+    {
+        "Author": Treezy,
+        "Name": "OpenRadar",
+        "Punchline": "Shows who is in the Party Finder party and their prog points before joining.",
+        "Description": "Enables automatically on installation, use /openradar for config",
+        "ApplicableVersion": "any",
+        Tags": [
+            "radar",
+            "libre",
+            "open",
+            "openradar",
+            "pfinspect"
+        ],
+        "InternalName": "OpenRadar",
+        "RepoUrl": "https://github.com/Ryan-RH/OpenRadar",
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/Ryan-RH/OpenRadar/releases/download/v0.0.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Ryan-RH/OpenRadar/releases/download/v0.0.0.1/latest.zip",
+        "AssemblyVersion": "0.0.0.1",
+        "DalamudApiLevel": "14",
+        "ChangeLog": "First Release"
     }
 ]
