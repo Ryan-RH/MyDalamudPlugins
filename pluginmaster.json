@@ -38,6 +38,6 @@
         "AssemblyVersion": "0.0.0.1",
         "DalamudApiLevel": "14",
         "ChangeLog": "First Release",
-        "IconUrl": "https://raw.githubusercontent.com/Ryan-RH/OpenRadar/master/OpenRadar/images/openradar.png"
+        "IconUrl": "https://raw.githubusercontent.com/Ryan-RH/OpenRadar/master/OpenRadar/images/icon.png"
     }
 ]
