@@ -37,7 +37,7 @@
         "DownloadLinkUpdate": "https://github.com/Ryan-RH/OpenRadar/releases/download/v0.0.0.1/latest.zip",
         "AssemblyVersion": "0.0.0.1",
         "DalamudApiLevel": "14",
-        "ChangeLog": "First Release"
+        "ChangeLog": "First Release",
         "IconUrl": "https://raw.githubusercontent.com/Ryan-RH/OpenRadar/blob/master/OpenRadar/images/openradar.png"
     }
 ]
