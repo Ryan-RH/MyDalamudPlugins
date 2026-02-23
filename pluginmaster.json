@@ -21,7 +21,7 @@
         "Author": "Treezy",
         "Name": "OpenRadar",
         "Punchline": "Shows who is in the Party Finder party and their prog points before joining.",
-        "Description": "Enables automatically on installation, use /openradar for config",
+        "Description": "Shows who is in the Party Finder party and their tomestone prog points before joining.",
         "ApplicableVersion": "any",
         "Tags": [
             "radar",
