@@ -33,11 +33,11 @@
         "InternalName": "OpenRadar",
         "RepoUrl": "https://github.com/Ryan-RH/OpenRadar",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Ryan-RH/OpenRadar/releases/download/v0.0.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Ryan-RH/OpenRadar/releases/download/v0.0.0.1/latest.zip",
-        "AssemblyVersion": "0.0.0.1",
+        "DownloadLinkInstall": "https://github.com/Ryan-RH/OpenRadar/releases/download/v0.0.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Ryan-RH/OpenRadar/releases/download/v0.0.0.2/latest.zip",
+        "AssemblyVersion": "0.0.0.2",
         "DalamudApiLevel": "14",
-        "ChangeLog": "First Release",
+        "ChangeLog": "Block private pfs and prevents ui crash on not finding duty name",
         "IconUrl": "https://raw.githubusercontent.com/Ryan-RH/OpenRadar/master/OpenRadar/images/icon.png"
     }
 ]
