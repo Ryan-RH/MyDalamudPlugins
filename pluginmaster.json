@@ -6,16 +6,17 @@
         "Description": "Enable draggable sorter instead of having to do some strange swapping that the game exclusively allows",
         "ApplicableVersion": "any",
         "Tags": [
-            "GearsetSort"
+            "GearsetSort",
+            "Gearset"
         ],
         "InternalName": "GearsetSort",
         "RepoUrl": "https://github.com/Ryan-RH/GearsetSort",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.2.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.2.0/latest.zip",
-        "AssemblyVersion": "0.0.2.0",
+        "DownloadLinkInstall": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.3.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.3.0/latest.zip",
+        "AssemblyVersion": "0.0.3.0",
         "DalamudApiLevel": "14",
-        "Changelog": "ImGui Fixes, dispose fix"
+        "Changelog": "UI Changes"
     },
     {
         "Author": "Treezy",
