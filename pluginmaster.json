@@ -21,7 +21,7 @@
         "Author": "Treezy",
         "Name": "OpenRadar",
         "Punchline": "Shows who is in the Party Finder party and their prog points before joining.",
-        "Description": "Shows who is in the Party Finder party and their tomestone prog points before joining.",
+        "Description": "Open source plugin to show who is in the PF party and their tomestone prog points before joining.",
         "ApplicableVersion": "any",
         "Tags": [
             "radar",
