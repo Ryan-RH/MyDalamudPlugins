@@ -12,9 +12,9 @@
         "InternalName": "GearsetSort",
         "RepoUrl": "https://github.com/Ryan-RH/GearsetSort",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.3.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.3.0/latest.zip",
-        "AssemblyVersion": "0.0.3.0",
+        "DownloadLinkInstall": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.3.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.3.1/latest.zip",
+        "AssemblyVersion": "0.0.3.1",
         "DalamudApiLevel": "14",
         "Changelog": "UI Changes",
         "IconUrl": "https://raw.githubusercontent.com/Ryan-RH/GearsetSort/master/images/icon.png"
