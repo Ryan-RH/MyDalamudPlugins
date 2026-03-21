@@ -12,34 +12,11 @@
         "InternalName": "GearsetSort",
         "RepoUrl": "https://github.com/Ryan-RH/GearsetSort",
         "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.5.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.5.2/latest.zip",
-        "AssemblyVersion": "0.0.5.2",
+        "DownloadLinkInstall": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.6.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Ryan-RH/GearsetSort/releases/download/v0.0.6.0/latest.zipp",
+        "AssemblyVersion": "0.0.6.0",
         "DalamudApiLevel": "14",
-        "Changelog": "shit",
+        "Changelog": "New Context Menu that includes Equip, Update, Rename and Delete. Double Click equip. And more (I forgor)",
         "IconUrl": "https://raw.githubusercontent.com/Ryan-RH/GearsetSort/master/images/icon.png"
-    },
-    {
-        "Author": "Treezy",
-        "Name": "OpenRadar",
-        "Punchline": "Shows who is in the Party Finder party and their prog points before joining.",
-        "Description": "Open-source plugin to show who is in the PF party and their tomestone prog points before joining.",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "radar",
-            "libre",
-            "open",
-            "openradar",
-            "pfinspect"
-        ],
-        "InternalName": "OpenRadar",
-        "RepoUrl": "https://github.com/Ryan-RH/OpenRadar",
-        "DownloadCount": 0,
-        "DownloadLinkInstall": "https://github.com/Ryan-RH/OpenRadar/releases/download/v0.0.0.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Ryan-RH/OpenRadar/releases/download/v0.0.0.2/latest.zip",
-        "AssemblyVersion": "0.0.0.2",
-        "DalamudApiLevel": "14",
-        "ChangeLog": "Block private pfs and prevents ui crash on not finding duty name",
-        "IconUrl": "https://raw.githubusercontent.com/Ryan-RH/OpenRadar/master/OpenRadar/images/icon.png"
     }
 ]
